@@ -1,4 +1,4 @@
-# Shiny App: ECB Key Interest Rates
+# ECB Key Interest Rates
 
 [Shiny app](https://faebse.shinyapps.io/interest_rates/) that plots the European Central Bank's key interest rates over a chosen period of time. The graph reflects current trends because the  data are pulled from [Quandl](https://www.quandl.com/).  The interest rates are:
 
